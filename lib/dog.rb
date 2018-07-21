@@ -1,3 +1,6 @@
 class Dog 
-  self.name= 
+
 end
+
+"Lassie" = Dog.new
+
