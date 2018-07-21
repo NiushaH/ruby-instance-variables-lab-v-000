@@ -1,3 +1,3 @@
 class Dog 
-  self.name= @
+  self.name= @name
 end
