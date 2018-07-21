@@ -2,5 +2,5 @@ class Dog
 
 end
 
-"Lassie" = Dog.new
+# "Lassie" = Dog.new
 
